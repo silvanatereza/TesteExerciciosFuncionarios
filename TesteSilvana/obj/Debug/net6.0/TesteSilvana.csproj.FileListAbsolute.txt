@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\bin\Debug\net6.0\TesteSilvana.exe
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\bin\Debug\net6.0\TesteSilvana.deps.json
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\bin\Debug\net6.0\TesteSilvana.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\bin\Debug\net6.0\TesteSilvana.dll
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\bin\Debug\net6.0\TesteSilvana.pdb
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.dll
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\refint\TesteSilvana.dll
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.pdb
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\TesteSilvana.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\ADA TECH\TesteSilvana\TesteSilvana\obj\Debug\net6.0\ref\TesteSilvana.dll
